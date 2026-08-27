@@ -1,0 +1,6 @@
+# Optional. Place this next to the vault root or pass --config path.
+#
+# ignore_dirs = ["Templates", "Archive"]
+# ignore_files = ["Home.md"]
+# ignore_extensions = ["css", "js"]
+# ignore_tags = ["keep"]
